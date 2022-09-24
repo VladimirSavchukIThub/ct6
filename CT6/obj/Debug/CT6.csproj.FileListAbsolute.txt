@@ -1,0 +1,8 @@
+C:\Users\Савчук Владимир\source\repos\CT6\CT6\bin\Debug\CT6.exe.config
+C:\Users\Савчук Владимир\source\repos\CT6\CT6\bin\Debug\CT6.exe
+C:\Users\Савчук Владимир\source\repos\CT6\CT6\bin\Debug\CT6.pdb
+C:\Users\Савчук Владимир\source\repos\CT6\CT6\obj\Debug\CT6.csproj.AssemblyReference.cache
+C:\Users\Савчук Владимир\source\repos\CT6\CT6\obj\Debug\CT6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Савчук Владимир\source\repos\CT6\CT6\obj\Debug\CT6.csproj.CoreCompileInputs.cache
+C:\Users\Савчук Владимир\source\repos\CT6\CT6\obj\Debug\CT6.exe
+C:\Users\Савчук Владимир\source\repos\CT6\CT6\obj\Debug\CT6.pdb
